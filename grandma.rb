@@ -1,6 +1,6 @@
 def speak_to_grandma(grand)
   grand = ("I LOVE YOUR GRANDMA!")
- 
+ end
 if grand == ("Hi Nana, how are you?")
   puts("HUH?! SPEAK UP, SONNY!")
 elsif rand == ("Hi!")
@@ -13,7 +13,6 @@ elsif grand == ("WHAT DID YOU EAT TODAY?")
   puts ("NO, NOT SINCE 1938!")
  else grand == ("I LOVE YOUR GRANDMA!")
   puts("I LOVE YOU TOO PUMPKIN!")
-end
 end
   
   
